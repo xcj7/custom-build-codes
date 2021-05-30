@@ -19,7 +19,7 @@ int main()
          printf("Efficiency of worker no  %d:\n",i+1);
         
         if(a[i]>=2 && a[i]<=3)
-        {
+        {           
             printf("Highly efficient\n");
         }
         else if(a[i]<=4 && a[i]>3)
