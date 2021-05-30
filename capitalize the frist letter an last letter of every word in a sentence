@@ -29,3 +29,8 @@ int main()
   
   }
   
+
+  printf("Modified sentence :\n%s", str);
+ 
+  return 0;
+}
